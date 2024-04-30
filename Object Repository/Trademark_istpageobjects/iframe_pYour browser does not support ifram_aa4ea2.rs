@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_pYour browser does not support ifram_aa4ea2</name>
+   <tag></tag>
+   <elementGuidId>657777bc-bf75-41a3-812a-51de3b411e66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ts-iframe']/iframe</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iframe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>469385d1-e589-47aa-abea-d1e289637e7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frameborder</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>209048c5-97b9-49ca-811e-972a6420b406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>a360f5d8-2e21-484e-83d0-329149f6a684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scrolling</name>
+      <type>Main</type>
+      <value>no</value>
+      <webElementGuid>42bdfbc6-5f56-40c3-b1bf-525c974a99e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onload</name>
+      <type>Main</type>
+      <value>javascript: $('#preloader').hide();</value>
+      <webElementGuid>6f407dd7-c117-4c9b-9b03-d4991eb79a4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://sos.preprod.simpligov.com/preprod/Portal/ShowWorkFlow/AnonymousEmbed/d23d2199-dd9b-4bef-9f37-ce39a02fd800</value>
+      <webElementGuid>1f52dd79-8f16-4fcc-a9df-bf38b6873223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        &lt;p>Your browser does not support iframes. Please update your browser.&lt;/p>
+    </value>
+      <webElementGuid>12af59c6-5749-4baa-bc79-2db592e72b4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ts-iframe&quot;)/iframe[1]</value>
+      <webElementGuid>8e22dfe8-d1ee-42be-b23e-635a80bb1f0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ts-iframe']/iframe</value>
+      <webElementGuid>164a0f9d-6564-4298-a89a-2703a1acbcc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::iframe[1]</value>
+      <webElementGuid>a7f10956-5868-46cd-9edb-2f485b62ac7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[1]/following::iframe[1]</value>
+      <webElementGuid>fbe1397e-b665-4bdb-a4b2-f9e05d9dc5f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show or Hide'])[1]/preceding::iframe[1]</value>
+      <webElementGuid>362d72e2-b48d-4309-a19e-be9d92dfdff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='&lt;p>Your browser does not support iframes. Please update your browser.&lt;/p>']/parent::*</value>
+      <webElementGuid>318a0bcd-e2a1-44b1-92dd-91895f3ff732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>ec2b34e0-3ea8-4516-ad87-c8c21a4d1c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://sos.preprod.simpligov.com/preprod/Portal/ShowWorkFlow/AnonymousEmbed/d23d2199-dd9b-4bef-9f37-ce39a02fd800' and (text() = '
+        &lt;p>Your browser does not support iframes. Please update your browser.&lt;/p>
+    ' or . = '
+        &lt;p>Your browser does not support iframes. Please update your browser.&lt;/p>
+    ')]</value>
+      <webElementGuid>1d85d152-169f-47c1-ae34-72447466a029</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

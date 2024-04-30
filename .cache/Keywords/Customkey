@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "3B1D57A41E997E124FCF4EEC259AF8B2",
+  "keywordClasses": [
+    {
+      "name": "Customkey",
+      "keywordMethods": [
+        {
+          "name": "hellokatalon",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Corporation</name>
+   <tag></tag>
+   <elementGuidId>9de08b96-c1de-4724-9c26-8ce2054cde38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select2-element11-result-9pvt-Option 1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b6ad5800-74b9-4e84-beeb-90a824a022e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>71937705-734e-4f7a-b625-7367b12f39e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-element11-result-9pvt-Option 1</value>
+      <webElementGuid>ac0105ff-8556-4e4a-94a7-3a4d22a3c352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>e24452b3-a5d1-4df0-9ff7-1a93c8ca8934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>acf10f28-6036-4fd0-a5fb-2e371b7773c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Corporation</value>
+      <webElementGuid>39ff416a-5084-4b2e-8ab2-931678f643fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-element11-result-9pvt-Option 1&quot;)</value>
+      <webElementGuid>2d43ea8a-6242-4ea4-a9f3-c4b0ac4dae8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/MAnualmodecapture/Page_TrademarkTrademark Online Filing  California Secretary of State/iframe_pYour browser does not support iframes. Please update your browser.p</value>
+      <webElementGuid>ca747309-9da1-4a57-8ef8-da5c2752b497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/combox/Page_1712265512434/iframe_pYour browser does not support iframes. Please update your browser.p</value>
+      <webElementGuid>0fb17c2a-3eed-4a51-a629-3fc4487ad75b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='select2-element11-result-9pvt-Option 1']</value>
+      <webElementGuid>7fb744be-e257-4014-b55e-db7ba9d802e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-element11-results']/li[2]</value>
+      <webElementGuid>ab5b7fed-ce9d-47b2-add1-6cfdd65ff780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select one --'])[114]/following::li[1]</value>
+      <webElementGuid>bf6c62b9-97e1-40d8-a860-f4c27a2aa4f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your city'])[2]/following::li[2]</value>
+      <webElementGuid>91a0074b-b485-4fe9-b16a-04adc86b1bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limited Liability Company'])[2]/preceding::li[1]</value>
+      <webElementGuid>6cb8d4f1-98cf-4b06-ba71-f3b398086b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limited Partnership'])[2]/preceding::li[2]</value>
+      <webElementGuid>31a937b5-ad1f-4e54-a2b6-febdbd920a10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/ul/li[2]</value>
+      <webElementGuid>5181331b-3544-4de5-baae-000a21cffdf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-element11-result-9pvt-Option 1' and (text() = 'Corporation' or . = 'Corporation')]</value>
+      <webElementGuid>a851141f-03ea-479a-8d3e-b499467e041e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_-- Select one --</name>
+   <tag></tag>
+   <elementGuidId>d010fc7d-1f76-4546-bcfb-5585be82e34e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'select2-element11-container' and @title = '-- Select one --' and (text() = '-- Select one --' or . = '-- Select one --') and @ref_element = 'Object Repository/MAnualmodecapture/Page_TrademarkTrademark Online Filing  California Secretary of State/iframe_pYour browser does not support iframes. Please update your browser.p']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-element11-container']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-element11-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bf44dafe-5121-480f-84a6-874794bfcbc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>1a3f9bea-9497-4a51-8651-35021edd8a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-element11-container</value>
+      <webElementGuid>b237f89e-d13e-4f12-a736-a90d43a24fd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>-- Select one --</value>
+      <webElementGuid>09aa326b-8ce7-4f84-8f83-f1a59ff69be3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Select one --</value>
+      <webElementGuid>26d67bf1-cf62-4e9d-ad08-3b1b0e513f3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-element11-container&quot;)</value>
+      <webElementGuid>4b1cdd16-c983-4fca-be71-8d14ed53cb91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/MAnualmodecapture/Page_TrademarkTrademark Online Filing  California Secretary of State/iframe_pYour browser does not support iframes. Please update your browser.p</value>
+      <webElementGuid>ca99b220-8fd7-4bb1-84ba-9a19778fe348</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-element11-container']</value>
+      <webElementGuid>19946391-fb2c-4e2a-9fa9-21b57634e2c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='s2id_element11']/span/span/span</value>
+      <webElementGuid>c9872994-4bb2-41dd-ad4a-cde67158fa0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Value is not selected'])[1]/following::span[5]</value>
+      <webElementGuid>afa35626-a2fa-4e3a-96de-4ee86b9a13df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select one --'])[3]/preceding::span[3]</value>
+      <webElementGuid>d59c746b-2a40-486b-93d6-4c5a5015e9cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Found 9 results'])[1]/preceding::span[4]</value>
+      <webElementGuid>22484250-3160-4b88-825e-07919c02b57b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span</value>
+      <webElementGuid>8aa23688-4a17-441f-bf79-b67d8cbae757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-element11-container' and @title = '-- Select one --' and (text() = '-- Select one --' or . = '-- Select one --')]</value>
+      <webElementGuid>279229e1-0233-4ff8-9c72-a79e1be0b850</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

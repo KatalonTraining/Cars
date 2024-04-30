@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "68D20E7F7448A07F015048D46CC6B580",
+  "keywordClasses": [
+    {
+      "name": "ss",
+      "keywordMethods": [
+        {
+          "name": "combo",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

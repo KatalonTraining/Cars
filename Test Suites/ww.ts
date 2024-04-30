@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ww</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>13014ebe-f3ac-45e7-8c6b-4b058742a30d</testSuiteGuid>
+   <testCaseLink>
+      <guid>556362ee-9ecb-4e19-8ea0-c7f92d711f4a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/dtc</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bbbf35d0-ee0b-4b02-b79a-992a38966d91</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/tt</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1f6eb130-5739-4928-bdcc-123555d7c3ec</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ddd</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>bbbf35d0-ee0b-4b02-b79a-992a38966d91</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>st</value>
+         <variableId>7ea4f89c-1c48-4207-9121-e4aa5bf09dd6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bbbf35d0-ee0b-4b02-b79a-992a38966d91</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>cit</value>
+         <variableId>670e4cf8-6bc5-4a0e-8f18-28d1468c3361</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

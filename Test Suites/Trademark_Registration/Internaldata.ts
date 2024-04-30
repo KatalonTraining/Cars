@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Internaldata</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>70a5bb69-ba33-4f69-95dd-db038fd70fb1</testSuiteGuid>
+   <testCaseLink>
+      <guid>2f6a0889-e7ce-42ac-a067-4758e154c3ef</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Trademark_Registration/SampleTestdataDemo</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>639b502a-b75d-4001-b3eb-d97456784ec1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/internaldata</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>639b502a-b75d-4001-b3eb-d97456784ec1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Street</value>
+         <variableId>c1b2dd9c-d6bc-4893-b654-6de9ae56c7c2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>639b502a-b75d-4001-b3eb-d97456784ec1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>City</value>
+         <variableId>a3527daa-960f-412c-bdcb-fc2bfe901de1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

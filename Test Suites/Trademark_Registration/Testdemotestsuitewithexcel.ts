@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Testdemotestsuitewithexcel</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>fb2abab1-acb8-4ae4-becf-fa3b8b680bdf</testSuiteGuid>
+   <testCaseLink>
+      <guid>56db1a4b-608f-4ff1-b452-a9904cf5d408</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Trademark_Registration/SampleTestdataDemo</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>490c8c9b-0783-444a-87e2-9ce91bb312af</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Testdatademoexcel</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>490c8c9b-0783-444a-87e2-9ce91bb312af</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Street</value>
+         <variableId>c1b2dd9c-d6bc-4893-b654-6de9ae56c7c2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>490c8c9b-0783-444a-87e2-9ce91bb312af</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>City</value>
+         <variableId>a3527daa-960f-412c-bdcb-fc2bfe901de1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
